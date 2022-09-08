@@ -5,7 +5,7 @@ Rothkopf, C. A., Ballard, D. H., & Hayhoe, M. M. (2007). Task and context determ
 
 The article can be found online at the Journal of Vision:
 
-https://jov.arvojournals.org/article.aspx?articleid=2121973
+https://doi.org/10.1167/7.14.16
 
 The idea is to generate a visualization that is a two-dmensional image from the three-dimensional image cube of a sequence of gaze targets. The two spatial dimensions are reduced to a single dimension, the vertical direction, by spiraling outward from the gaze target. The horizontal dimension corresponds to time.
 
