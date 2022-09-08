@@ -9,7 +9,6 @@ https://doi.org/10.1167/7.14.16
 
 The idea is to generate a visualization that is a two-dmensional image from the three-dimensional image cube of a sequence of gaze targets. The two spatial dimensions are reduced to a single dimension, the vertical direction, by spiraling outward from the gaze target. The horizontal dimension corresponds to time.
 
-Figure 2 of the orignal paper was obtained using this function:
-![Figure 2](https://arvo.silverchair-cdn.com/arvo/content_public/journal/jov/932846/m_jov-7-14-16-fig003.jpeg)
+Figure 2 of the orignal paper was obtained using the Matlab function spiral_map.m.
 
 
